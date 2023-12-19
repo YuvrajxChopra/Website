@@ -1,0 +1,57 @@
+.main-container {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.toolbar {
+    display: flex;
+    justify-content: space-between;
+}
+
+.site-name {
+    font-size: 1.8rem;
+    color: #00D5FA;
+    text-decoration: none;
+}
+
+.header {
+    background-size: cover;
+    color: white;
+    padding: 50px;
+    text-align: center;
+}
+
+.recent-whispers {
+    margin-top: 30px;
+}
+
+.our-values {
+    margin-top: 30px;
+}
+
+.value-card {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.contact-us {
+    margin-top: 30px;
+}
+
+.contact-form {
+    padding: 20px;
+    max-width: 400px;
+    margin: auto;
+}
+
+.contact-info,
+.contact-form-container {
+    width: 48%;
+}
+
+.footer {
+    margin-top: 30px;
+    padding: 20px;
+}
