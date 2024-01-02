@@ -1,6 +1,8 @@
 # whisper.web
 
-A Full-stack Social Media website made using MERN stack and chatengine.io/socket.io with this platform lets you post (text and images for now) and let others react to that post and comment, also have the option to create profiles and users can chat with each other as well.
+A Full-stack Social Media website made using MERN stack (MongoDB, ExpressJS, ReactJS & NodeJS) and chatengine.io/socket.io. It is platform that is like your typical social media website post, with friends, like, comment, & chatting features and the overall theme of the social media platform is that it prompts free speech and has no restrictions for your post.
+
+
 Features list:
 - Login/Register
 - Homepage (lets you post and create posts)
@@ -8,6 +10,7 @@ Features list:
 - Comment
 - Like
 - Profile Page
+- Make Friends
 - Chat Room
 - Dark Mode
 
